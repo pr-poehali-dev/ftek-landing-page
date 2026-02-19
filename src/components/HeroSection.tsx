@@ -32,10 +32,11 @@ const HeroSection = () => {
               <Icon name="ArrowRight" size={18} />
             </a>
             <a
-              href="#how-it-works"
+              href="#calculator"
               className="inline-flex items-center justify-center gap-2 bg-white/10 text-white px-7 py-3.5 rounded-lg text-base font-semibold hover:bg-white/20 transition-colors backdrop-blur-sm"
             >
-              Как это работает
+              <Icon name="Calculator" size={18} />
+              Рассчитать стоимость
             </a>
           </div>
         </div>

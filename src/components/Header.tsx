@@ -4,6 +4,7 @@ import Icon from "@/components/ui/icon";
 const navLinks = [
   { label: "Как это работает", href: "#how-it-works" },
   { label: "Услуги", href: "#services" },
+  { label: "Калькулятор", href: "#calculator" },
   { label: "О нас", href: "#why-ftek" },
   { label: "Вопросы", href: "#faq" },
   { label: "Контакты", href: "#contacts" },
