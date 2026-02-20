@@ -15,8 +15,8 @@ const Header = () => {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/95 backdrop-blur border-b border-border">
-      <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-        <a href="#" className="text-2xl font-extrabold tracking-tight text-primary select-none">
+      <div className="container h-16 flex items-center justify-between px-[15px] bg-[#ffffff] rounded-0 mx-0 my-0 py-9">
+        <a href="#" className="font-extrabold tracking-tight select-none text-[#000000] mx-[27px] text-4xl">
           FTEK
         </a>
 
